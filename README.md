@@ -10,23 +10,23 @@ There are 2 users on the application: - <br>
     1. User <br>  
     2. Admin <br>  
 <br>    
-User Stories –
-    1. As a user I should be able to login, Logout and Register into the application.
-    2. As a user I should be able to see the products in different categories.
-    3. As a user I should be able to sort the products.
-    4. As a user I should be able to add the products into the shopping cart.
-    5. As a user I should be able to increase or decrease the quantity added in the cart.
-    6. As a user I should be able to add “n” number of products in the cart.
+User Stories –<br>  
+    1. As a user I should be able to login, Logout and Register into the application.<br>  
+    2. As a user I should be able to see the products in different categories.<br>  
+    3. As a user I should be able to sort the products.<br>  
+    4. As a user I should be able to add the products into the shopping cart.<br>  
+    5. As a user I should be able to increase or decrease the quantity added in the cart.<br>  
+    6. As a user I should be able to add “n” number of products in the cart.<br>  
     7. As a userIshould be able to gettheWishlist option where I can add those products which I want but
-    don’t want to order now
-    8. As a user I should get different discount coupons.
+    don’t want to order now.<br>  
+    8. As a user I should get different discount coupons.<br>  
 <br>   
-Admin Stories –
-    1. As an Admin I should be able to login, Logout and Register into the application.
-    2. As an Admin I should be able to perform CRUD on Users.
-    3. As an Admin I should be able to Perform CRUD on the products.
-    4. As an Admin I should be able to get bulk upload option to upload a csv for products details
-    5. As an Admin I should be able to get the stocks.
-    6. As an Admin I should be able to mail if any stock is less than 10.
-    7. As an Admin I should be able to get the sales report of a specific duration.
-    8. As an Admin I should be able to set the discount coupons for the specific set of users
+Admin Stories –<br>  
+    1. As an Admin I should be able to login, Logout and Register into the application.<br>  
+    2. As an Admin I should be able to perform CRUD on Users.<br>  
+    3. As an Admin I should be able to Perform CRUD on the products.<br>  
+    4. As an Admin I should be able to get bulk upload option to upload a csv for products details<br>  
+    5. As an Admin I should be able to get the stocks.<br>  
+    6. As an Admin I should be able to mail if any stock is less than 10.<br>  
+    7. As an Admin I should be able to get the sales report of a specific duration.<br>   
+    8. As an Admin I should be able to set the discount coupons for the specific set of users<br>  
