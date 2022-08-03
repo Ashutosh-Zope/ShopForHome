@@ -5,11 +5,11 @@ Problem Statement:
     ShopForHome is a popular Store in the market for shopping the home décor stuff .Due to
     Covid 19 all the offline shopping stopped. So, the store wants to move to the online platforms and wants their
     own web application.
-    
+<br>    
 There are 2 users on the application: -
     1. User
     2. Admin
-    
+<br>    
 User Stories –
     1. As a user I should be able to login, Logout and Register into the application.
     2. As a user I should be able to see the products in different categories.
@@ -20,7 +20,7 @@ User Stories –
     7. As a userIshould be able to gettheWishlist option where I can add those products which I want but
     don’t want to order now
     8. As a user I should get different discount coupons.
-    
+<br>   
 Admin Stories –
     1. As an Admin I should be able to login, Logout and Register into the application.
     2. As an Admin I should be able to perform CRUD on Users.
