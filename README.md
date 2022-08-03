@@ -6,9 +6,9 @@ Problem Statement:
     Covid 19 all the offline shopping stopped. So, the store wants to move to the online platforms and wants their
     own web application.
 <br>    
-There are 2 users on the application: -
-    1. User
-    2. Admin
+There are 2 users on the application: - <br>  
+    1. User <br>  
+    2. Admin <br>  
 <br>    
 User Stories –
     1. As a user I should be able to login, Logout and Register into the application.
